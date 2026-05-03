@@ -10,7 +10,7 @@ I build real projects to connect business needs with simple digital systems: cle
 - Mobile-first UX and technical SEO
 - Tailwind CSS and Vercel deployments
 - n8n, Google Sheets and lead workflows
-- AI-assisted development and documentation
+- AI-assisted development, documentation and lightweight automation
 
 ## Featured projects
 
